@@ -1,4 +1,13 @@
 
+There are few list of the courses which are from there avaible in online and this , 
+leads to best understanding.This is the list where we will automatically leads to easily
+soft skill bundle.This bundle is one of the helpful and easiest and understanding.
+
+Note : links may not work so Copying name of the course will help a lot.
+There we can start from the starting.
+
+Section 1 : Thinking , Logic and Problem Solving.
+
 
 1. Solving Problems with Creative and Critical Thinking
 Provider: IBM
