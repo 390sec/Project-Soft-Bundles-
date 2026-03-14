@@ -4,6 +4,8 @@ leads to best understanding.This is the list where we will automatically leads t
 soft skill bundle.This bundle is one of the helpful and easiest and understanding.
 
 Note : links may not work so Copying name of the course will help a lot.
+Ignore numbering and Counting numbering typo's and other typo's.
+
 There we can start from the starting.
 
 Section 1 : Thinking , Logic and Problem Solving.
@@ -36,3 +38,30 @@ Course Link: https://www.coursera.org/learn/analytical-thinking-professionals
 7. Computational Thinking for Problem Solving
 Provider: University of Pennsylvania
 Course Link: https://www.coursera.org/learn/computational-thinking-problem-solving
+46. Think Again I: How to Understand Arguments
+Provider: Duke University
+Course Link: https://www.coursera.org/learn/understanding-arguments
+
+47. Think Again II: How to Reason Deductively
+Provider: Duke University
+Course Link: https://www.coursera.org/learn/deductive-reasoning
+
+48. Think Again III: How to Reason Inductively
+Provider: Duke University
+Course Link: https://www.coursera.org/learn/inductive-reasoning
+
+49. Think Again IV: How to Avoid Fallacies
+Provider: Duke University
+Course Link: https://www.coursera.org/learn/avoid-fallacies
+
+50. Mindware: Critical Thinking for the Information Age
+Provider: University of Michigan
+Course Link: https://www.coursera.org/learn/mindware
+
+51. Creative Thinking: Techniques and Tools for Success
+Provider: Imperial College London
+Course Link: https://www.coursera.org/learn/creative-thinking-techniques
+
+52. Introduction to Logic and Critical Thinking
+Provider: Duke University
+Course Link: https://www.coursera.org/learn/logic-critical-thinking
