@@ -1,0 +1,41 @@
+ Productivity, Planning & Execution
+75. Project Initiation: Starting a Successful Project
+Provider: Google
+Course Link: https://www.coursera.org/learn/project-initiation-google
+
+76. Project Execution: Running the Project
+Provider: Google
+Course Link: https://www.coursera.org/learn/project-execution-google
+
+77. Foundations of Project Management
+Provider: Google
+Course Link: https://www.coursera.org/learn/project-management-foundations
+
+78. Agile with Atlassian Jira
+Provider: Atlassian
+Course Link: https://www.coursera.org/learn/agile-atlassian-jira
+
+79. Introduction to Time Management
+Provider: University of California, Irvine
+Course Link: https://www.coursera.org/learn/time-management
+
+
+35. Work Smarter, Not Harder: Time Management for Personal & Professional Productivity
+Provider: University of California, Irvine
+Course Link: https://www.coursera.org/learn/work-smarter-not-harder
+
+36. Project Management Principles and Practices
+Provider: University of California, Irvine
+Course Link: https://www.coursera.org/learn/project-management-principles
+
+37. Agile Project Management
+Provider: Google
+Course Link: https://www.coursera.org/learn/agile-project-management
+
+38. Fundamentals of Project Planning and Management
+Provider: University of Virginia
+Course Link: https://www.coursera.org/learn/project-planning-management
+
+39. Goal Setting and Personal Development Planning
+Provider: University of Colorado Boulder
+Course Link: https://www.coursera.org/learn/goal-setting
