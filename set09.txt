@@ -1,0 +1,195 @@
+🖥 Computer Basics
+1. Introduction to Computers and Office Productivity Software
+Provider: The Hong Kong University of Science and Technology
+Course Link: https://www.coursera.org/learn/introduction-to-computers
+
+2. Computer Hardware Basics
+Provider: IBM
+Course Link: https://www.coursera.org/learn/computer-hardware-basics
+
+3. Technical Support Fundamentals
+Provider: Google
+Course Link: https://www.coursera.org/learn/technical-support-fundamentals
+
+4. Introduction to Information Technology
+Provider: IBM
+Course Link: https://www.coursera.org/learn/introduction-information-technology
+
+⌨ Digital Literacy & Productivity
+5. Digital Transformation
+Provider: University of Virginia
+Course Link: https://www.coursera.org/learn/digital-transformation
+
+6. Digital Skills: Digital Skills for Work and Life
+Provider: University of Leeds
+Course Link: https://www.coursera.org/learn/digital-skills
+
+7. Introduction to Digital Literacy
+Provider: University of Illinois Urbana‑Champaign
+Course Link: https://www.coursera.org/learn/digital-literacy
+
+8. Digital Workplace Productivity
+Provider: Microsoft
+Course Link: https://www.coursera.org/learn/digital-workplace-productivity
+
+📊 Data Understanding Basics
+9. What is Data Science?
+Provider: IBM
+Course Link: https://www.coursera.org/learn/what-is-data-science
+
+10. Data Literacy Foundations
+Provider: Johns Hopkins University
+Course Link: https://www.coursera.org/learn/data-literacy
+
+11. Introduction to Data Analytics
+Provider: IBM
+Course Link: https://www.coursera.org/learn/introduction-data-analytics
+
+12. Data Science Foundations
+Provider: University of London
+Course Link: https://www.coursera.org/learn/data-science-foundations
+
+🔢 Basic Mathematical & Logical Thinking
+13. Introduction to Mathematical Thinking
+Provider: Stanford University
+Course Link: https://www.coursera.org/learn/mathematical-thinking
+
+14. Computational Thinking for Problem Solving
+Provider: University of Pennsylvania
+Course Link: https://www.coursera.org/learn/computational-thinking-problem-solving
+
+15. Logic and Computational Thinking
+Provider: University of California San Diego
+Course Link: https://www.coursera.org/learn/logic-computational-thinking
+
+16. Discrete Mathematics Basics
+Provider: University of London
+Course Link: https://www.coursera.org/learn/discrete-mathematics
+
+🧠 Basic Programming Awareness
+(very beginner friendly)
+
+17. Programming for Everybody (Python)
+Provider: University of Michigan
+Course Link: https://www.coursera.org/learn/python
+
+18. Introduction to Programming with Python
+Provider: Meta
+Course Link: https://www.coursera.org/learn/programming-with-python
+
+19. Python Basics
+Provider: IBM
+Course Link: https://www.coursera.org/learn/python-basics
+
+20. Coding for Everyone: C and C++
+Provider: University of California Santa Cruz
+Course Link: https://www.coursera.org/learn/c-for-everyone
+
+🌐 Internet & Digital Systems Basics
+21. Internet History, Technology and Security
+Provider: University of Michigan
+Course Link: https://www.coursera.org/learn/internet-history
+
+22. Digital Systems: From Logic Gates to Processors
+Provider: Universitat Autònoma de Barcelona
+Course Link: https://www.coursera.org/learn/digital-systems
+
+23. Introduction to Computer Networking
+Provider: Cisco
+Course Link: https://www.coursera.org/learn/networking-basics
+
+📚 Computer Science Understanding
+24. Computer Science: Programming with a Purpose
+Provider: Princeton University
+Course Link: https://www.coursera.org/learn/cs-programming-java
+
+25. Introduction to Computer Science and Programming
+Provider: University of London
+Course Link: https://www.coursera.org/learn/introduction-computer-science
+
+26. Introduction to Algorithms
+Provider: Stanford University
+Course Link: https://www.coursera.org/learn/algorithms-divide-conquer
+
+27. Problem Solving Using Computational Thinking
+Provider: University of Pennsylvania
+Course Link: https://www.coursera.org/learn/problem-solving-computational-thinking
+
+🧩 Digital Skills & Practical Computer Use
+28. Computer Skills for the Workplace
+Provider: University of California, Irvine
+Course Link: https://www.coursera.org/learn/computer-skills-workplace
+
+29. Fundamentals of Computing
+Provider: Rice University
+Course Link: https://www.coursera.org/learn/computing-fundamentals
+
+30. Introduction to Software Engineering
+Provider: IBM
+Course Link: https://www.coursera.org/learn/introduction-software-engineering
+
+🧠 Logical Thinking & Problem Solving
+31. Think Again I: How to Understand Arguments
+Provider: Duke University
+Course Link: https://www.coursera.org/learn/understanding-arguments
+
+32. Think Again II: How to Reason Deductively
+Provider: Duke University
+Course Link: https://www.coursera.org/learn/deductive-reasoning
+
+33. Think Again III: How to Reason Inductively
+Provider: Duke University
+Course Link: https://www.coursera.org/learn/inductive-reasoning
+
+34. Creative Problem Solving
+Provider: University of Minnesota
+Course Link: https://www.coursera.org/learn/creative-problem-solving
+
+🔢 Mathematical & Analytical Foundations
+35. Introduction to Logic
+Provider: Stanford University
+Course Link: https://www.coursera.org/learn/logic-introduction
+
+36. Data Science Math Skills
+Provider: Duke University
+Course Link: https://www.coursera.org/learn/datasciencemathskills
+
+37. Linear Algebra for Machine Learning
+Provider: Imperial College London
+Course Link: https://www.coursera.org/learn/linear-algebra-machine-learning
+
+📊 Data & Information Understanding
+38. Data Management and Visualization
+Provider: Duke University
+Course Link: https://www.coursera.org/learn/data-management-visualization
+
+39. Introduction to Data Analysis Using Excel
+Provider: Rice University
+Course Link: https://www.coursera.org/learn/excel-data-analysis
+
+40. Foundations of Data Science
+Provider: University of London
+Course Link: https://www.coursera.org/learn/foundations-data-science
+
+💻 Computing & Digital Systems Understanding
+41. Build a Modern Computer from First Principles
+Provider: Hebrew University of Jerusalem
+Course Link: https://www.coursera.org/learn/build-a-computer
+
+42. Introduction to Computing with Python
+Provider: Georgia Institute of Technology
+Course Link: https://www.coursera.org/learn/python-computing
+
+43. Software Development Processes and Methodologies
+Provider: University of Minnesota
+Course Link: https://www.coursera.org/learn/software-development-processes
+
+🌐 Digital & Internet Understanding
+44. Digital Culture and Society
+Provider: University of Copenhagen
+Course Link: https://www.coursera.org/learn/digital-culture
+
+45. Introduction to Digital Media
+Provider: University of North Carolina at Chapel Hill
+Course Link: https://www.coursera.org/learn/digital-media
+
